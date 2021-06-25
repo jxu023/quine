@@ -15,6 +15,9 @@ Don't scroll down if you want to avoid hints!
 It's a little puzzle!
 Doing it was a lot of fun for me!
 
+It's kind of like playing a game of catch-up or tag.
+Each line you write has to be printed out later on.
+
 ## Why did I decide to write a quine?
 
 https://blog.dave.tf/post/finding-bottom-turtle/ was a really interesting article I saw on hacker news.
@@ -54,6 +57,7 @@ o_o
 
 ## Hints
 
+* Every piece of syntax you use to write your program must be printed out, in order to print all the syntax out, you must represent all of it as strings.
 * You can use a definition bank to hold all the strings of things you need to print things out
 * Make sure you're familiar with quotes, doc-string quotes, and escaping characters
 
